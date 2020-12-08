@@ -10,9 +10,9 @@ namespace Day2_Assignments
     {
         static void Main(string[] args)
         {
-            Employee e = new Employee("Monika Patil", 20000, 060);
-            Employee e1 = new Employee("Monika Patil", 20000);
-            Employee e2 = new Employee("Monika Patil");
+            Employee e = new Employee("Utkarsha", 20000, 060);
+            Employee e1 = new Employee("Anuja", 20000);
+            Employee e2 = new Employee("sneha");
             Employee e3 = new Employee();
 
 
